@@ -1,0 +1,24 @@
+/* login.css */
+
+/* Style pour le body */
+body {
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+  }
+  
+  /* Style pour les boutons */
+  .button_style {
+    margin-left: 10px !important;
+    margin-right: 10px;
+  }
+  
+  /* Centrer le tableau */
+  .centerTable {
+    margin: 0px auto;
+  }
+  
+  /* Style pour les titres */
+  h2 {
+    color: black;
+  }
+  
