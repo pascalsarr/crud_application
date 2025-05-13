@@ -136,12 +136,13 @@ npm start
 
 ## 📸 Capture d’écran
 
-![1](https://github.com/user-attachments/assets/faaa7faa-aa3c-4b56-bcb1-eafa7c882e16)
-![2](https://github.com/user-attachments/assets/9680e758-e956-4cd0-b244-9d3a69671557)
-![3](https://github.com/user-attachments/assets/639b0202-2ea9-4551-9b2b-1ce8aaf7cd7f)
-![4](https://github.com/user-attachments/assets/078fb41d-2787-4d62-be37-c7370e7a9d7c)
-![5](https://github.com/user-attachments/assets/ceaceec1-8df6-4b3c-9218-1306e99474f8)
-![6](https://github.com/user-attachments/assets/1d9e3d69-bbc5-4d2e-9a43-82e92035bd6f)
+![1](https://github.com/user-attachments/assets/f16b14ad-3771-4288-8624-cfc2a88a5ff4)
+![3](https://github.com/user-attachments/assets/273525d9-9b36-456d-bfc2-8dca7296a250)
+![5](https://github.com/user-attachments/assets/fd2c9e75-d9f4-4696-aef1-a0084f45f80c)
+![6](https://github.com/user-attachments/assets/9df34385-746f-41b2-8d43-09e4304f9ce1)
+![7](https://github.com/user-attachments/assets/967753e8-fae4-4a91-b622-fc5d53c5c942)
+![9](https://github.com/user-attachments/assets/54cd4866-75e7-45df-a54b-a1b45d4b574c)
+![10](https://github.com/user-attachments/assets/8293df53-587f-4771-9b0b-459be8019e6c)
 
 ---
 
